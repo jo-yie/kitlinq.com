@@ -1,0 +1,5 @@
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: #e6e4dd; }
+img { max-width: 100%; }
+::selection { background: #e23a2e; color: #e6e4dd; }
