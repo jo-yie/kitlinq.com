@@ -14,7 +14,7 @@
 // ────────────────────────────────────────────────────────────────────────────
 
 export const profile = {
-  name: "kit ling yeoh-leong",
+  name: "kit ling yeoh-leong ou!",
   handle: "kitlinq",
   tagline: "artist, photographer & videographer — london",
   intro:
