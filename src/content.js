@@ -85,19 +85,6 @@ export const rolls = [
       { src: "https://i0.wp.com/kitlinq.wordpress.com/wp-content/uploads/2025/07/25360020.jpg", caption: "taipei", film: true },
     ],
   },
-  {
-    id: "studio",
-    label: "studio",
-    note: "client · nicoleshai @ sculptstudios",
-    photos: [
-      { src: "https://i0.wp.com/kitlinq.wordpress.com/wp-content/uploads/2025/08/dsc8513.jpg", caption: "@nicoleshai" },
-      { src: "https://i0.wp.com/kitlinq.wordpress.com/wp-content/uploads/2025/08/dsc8539.jpg", caption: "sculptstudios" },
-      { src: "https://i0.wp.com/kitlinq.wordpress.com/wp-content/uploads/2025/08/dsc8680.jpg", caption: "sculptstudios" },
-      { src: "https://i0.wp.com/kitlinq.wordpress.com/wp-content/uploads/2025/08/dsc8689.jpg", caption: "sculptstudios" },
-      { src: "https://i0.wp.com/kitlinq.wordpress.com/wp-content/uploads/2025/08/dsc8859.jpg", caption: "sculptstudios" },
-      { src: "https://i0.wp.com/kitlinq.wordpress.com/wp-content/uploads/2025/08/dsc8932.jpg", caption: "@nicoleshai" },
-    ],
-  },
   // {
   //   id: "crochet",
   //   label: "crochet",
